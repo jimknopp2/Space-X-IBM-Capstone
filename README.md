@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Knopp
 - 👀 I’m interested in machine learning and data visualization in Tableau
-- 🌱 I’m currently learning nueral networks
+- 🌱 I’m currently learning neural networks
 - 💞️ I’m currently a data scientist at Cardinal Health
 - 📫 How to reach me: jimknopp2@gmail.com
 
