@@ -1,7 +1,7 @@
 - 👋 Hi, I’m James Knopp
-- 👀 I’m interested in data analytics and data visualation in Tableau
-- 🌱 I’m currently learning Power BI
-- 💞️ I’m looking for an entry level data analytics job
+- 👀 I’m interested in machine learning and data visualization in Tableau
+- 🌱 I’m currently learning nueral networks
+- 💞️ I’m currently a data scientist at Cardinal Health
 - 📫 How to reach me: jimknopp2@gmail.com
 
 <!---
